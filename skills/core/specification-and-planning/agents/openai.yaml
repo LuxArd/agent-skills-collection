@@ -1,0 +1,4 @@
+interface:
+  display_name: "Specification and Planning"
+  short_description: "Define scope, acceptance, and delivery plan"
+  default_prompt: "Use $specification-and-planning to turn this change into a bounded plan."
