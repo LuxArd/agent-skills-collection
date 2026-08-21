@@ -16,12 +16,12 @@ These skills are designed to be installed selectively. **Fourteen available skil
 | [security-review](skills/core/security-review/) | On-demand core | For a scoped security review | Perform a focused read-only security assessment | Apache-2.0 / CC BY-SA 4.0 components |
 | [doubt-driven-review](skills/core/doubt-driven-review/) | On-demand core | For consequential uncertainty | Run a bounded adversarial challenge | MIT; adapted from Addy Osmani |
 | [skill-intake-review](skills/core/skill-intake-review/) | On-demand core | Before deciding whether to install a skill | Perform a read-only static intake review | Apache-2.0; locally authored |
-| [trend-opportunity-analysis](skills/iron-science/trend-opportunity-analysis/) | On-demand Iron Science domain | For supplied trend evidence | Interpret bounded trend signals | Apache-2.0; locally authored |
-| [media-discovery-provenance](skills/iron-science/media-discovery-provenance/) | On-demand Iron Science domain | For media-source evidence | Evaluate media provenance and rights records | Apache-2.0; locally authored |
-| [visual-media-evidence](skills/iron-science/visual-media-evidence/) | On-demand Iron Science domain | For identified media or renders | Record descriptive visual evidence | Apache-2.0; locally authored |
-| [edit-decision-planning](skills/iron-science/edit-decision-planning/) | On-demand Iron Science domain | For approved story and asset packages | Create a declarative edit plan | Apache-2.0; locally authored |
-| [video-qa-gate](skills/iron-science/video-qa-gate/) | On-demand Iron Science domain | For an immutable render | Issue an independent QA gate verdict | Apache-2.0; locally authored |
-| [performance-learning-evaluation](skills/iron-science/performance-learning-evaluation/) | On-demand Iron Science domain | For supplied performance data | Evaluate hypotheses and learning evidence | Apache-2.0; locally authored |
+| [trend-opportunity-analysis](skills/media-intelligence/trend-opportunity-analysis/) | On-demand Media Intelligence | For supplied trend evidence | Interpret bounded trend signals | Apache-2.0; locally authored |
+| [media-discovery-provenance](skills/media-intelligence/media-discovery-provenance/) | On-demand Media Intelligence | For media-source evidence | Evaluate media provenance and rights records | Apache-2.0; locally authored |
+| [visual-media-evidence](skills/media-intelligence/visual-media-evidence/) | On-demand Media Intelligence | For identified media or renders | Record descriptive visual evidence | Apache-2.0; locally authored |
+| [edit-decision-planning](skills/media-intelligence/edit-decision-planning/) | On-demand Media Intelligence | For approved story and asset packages | Create a declarative edit plan | Apache-2.0; locally authored |
+| [video-qa-gate](skills/media-intelligence/video-qa-gate/) | On-demand Media Intelligence | For an immutable render | Issue an independent QA gate verdict | Apache-2.0; locally authored |
+| [performance-learning-evaluation](skills/media-intelligence/performance-learning-evaluation/) | On-demand Media Intelligence | For supplied performance data | Evaluate hypotheses and learning evidence | Apache-2.0; locally authored |
 
 ## Choose the smallest useful skill
 
@@ -33,7 +33,7 @@ These skills are designed to be installed selectively. **Fourteen available skil
 - Security review → `security-review`
 - Fresh adversarial challenge → `doubt-driven-review`
 - Third-party skill intake → `skill-intake-review`
-- Trend, media, edit, video QA, or learning evaluation → choose the matching Iron Science domain skill
+- Trend, media, edit, video QA, or learning evaluation → choose the matching Media Intelligence skill
 
 ## Install and reuse
 
@@ -45,4 +45,4 @@ This is a component-aware collection. The root [LICENSE](LICENSE) applies to Vic
 
 ## Scope
 
-The repository contains reusable skills and their required supporting materials only. It does not include private Iron Science project architecture, workflows, credentials, client data, logs, or internal audit packs.
+The repository contains reusable skills and their required supporting materials only. It does not include private project architecture, workflows, credentials, client data, logs, or internal audit packs.

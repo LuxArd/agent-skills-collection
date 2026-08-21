@@ -32,7 +32,7 @@ Add an on-demand skill only when its scope is needed.
 
 ## Install all skills
 
-Copy the contents of both `skills/core/` and `skills/iron-science/` into your Agent Skills discovery directory. Do not flatten folders and do not copy only `SKILL.md`; supporting references, templates, and safe scripts belong with their skill.
+Copy the contents of both `skills/core/` and `skills/media-intelligence/` into your Agent Skills discovery directory. Do not flatten folders and do not copy only `SKILL.md`; supporting references, templates, and safe scripts belong with their skill.
 
 ## Verify discovery
 

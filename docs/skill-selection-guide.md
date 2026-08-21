@@ -12,6 +12,6 @@ Start with the user outcome, then add only the smallest specialised skill that c
 | The review is security-focused | `security-review` |
 | A high-stakes decision needs challenge | `doubt-driven-review` |
 | A third-party skill needs static intake review | `skill-intake-review` |
-| Supplied trend, media, edit, QA, or learning evidence | the matching Iron Science domain skill |
+| Supplied trend, media, edit, QA, or learning evidence | the matching Media Intelligence skill |
 
 Do not activate a skill merely because it exists in the collection.

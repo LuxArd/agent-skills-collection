@@ -34,24 +34,24 @@
 
 ## trend-opportunity-analysis
 
-**Category:** On-demand Iron Science domain · **Use for:** supplied trend observations and a decision question · **Not for:** data collection or platform operation · **Folder:** `skills/iron-science/trend-opportunity-analysis/`
+**Category:** On-demand Media Intelligence · **Use for:** supplied trend observations and a decision question · **Not for:** data collection or platform operation · **Folder:** `skills/media-intelligence/trend-opportunity-analysis/`
 
 ## media-discovery-provenance
 
-**Category:** On-demand Iron Science domain · **Use for:** media-source and rights-evidence records · **Not for:** retrieval, generation, or granting rights · **Folder:** `skills/iron-science/media-discovery-provenance/`
+**Category:** On-demand Media Intelligence · **Use for:** media-source and rights-evidence records · **Not for:** retrieval, generation, or granting rights · **Folder:** `skills/media-intelligence/media-discovery-provenance/`
 
 ## visual-media-evidence
 
-**Category:** On-demand Iron Science domain · **Use for:** descriptive evidence about known assets or renders · **Not for:** rights conclusions or publication decisions · **Folder:** `skills/iron-science/visual-media-evidence/`
+**Category:** On-demand Media Intelligence · **Use for:** descriptive evidence about known assets or renders · **Not for:** rights conclusions or publication decisions · **Folder:** `skills/media-intelligence/visual-media-evidence/`
 
 ## edit-decision-planning
 
-**Category:** On-demand Iron Science domain · **Use for:** declarative edit planning from approved packages · **Not for:** rendering or editing files · **Folder:** `skills/iron-science/edit-decision-planning/`
+**Category:** On-demand Media Intelligence · **Use for:** declarative edit planning from approved packages · **Not for:** rendering or editing files · **Folder:** `skills/media-intelligence/edit-decision-planning/`
 
 ## video-qa-gate
 
-**Category:** On-demand Iron Science domain · **Use for:** independent QA of an immutable render · **Not for:** production execution or publication · **Folder:** `skills/iron-science/video-qa-gate/`
+**Category:** On-demand Media Intelligence · **Use for:** independent QA of an immutable render · **Not for:** production execution or publication · **Folder:** `skills/media-intelligence/video-qa-gate/`
 
 ## performance-learning-evaluation
 
-**Category:** On-demand Iron Science domain · **Use for:** evaluating supplied metrics, experiments, and learning state · **Not for:** ingesting data or launching experiments · **Folder:** `skills/iron-science/performance-learning-evaluation/`
+**Category:** On-demand Media Intelligence · **Use for:** evaluating supplied metrics, experiments, and learning state · **Not for:** ingesting data or launching experiments · **Folder:** `skills/media-intelligence/performance-learning-evaluation/`

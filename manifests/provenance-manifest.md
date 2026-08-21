@@ -10,11 +10,11 @@
 | security-review | Sentry `getsentry/skills`; retained OWASP reference material | `6abccd60c704f669423d6a06ff0809fa39513ce8` | Apache-2.0 + CC BY-SA 4.0 | Adapted | `skills/core/security-review/` |
 | doubt-driven-review | Addy Osmani `doubt-driven-development` | `df1edb2e05487d0aa6d93c747141e0aed1187f25` | MIT | Adapted | `skills/core/doubt-driven-review/` |
 | skill-intake-review | Locally authored in reviewed process | N/A | Apache-2.0 | Locally authored | `skills/core/skill-intake-review/` |
-| trend-opportunity-analysis | Locally authored | N/A | Apache-2.0 | Locally authored | `skills/iron-science/trend-opportunity-analysis/` |
-| media-discovery-provenance | Locally authored | N/A | Apache-2.0 | Locally authored | `skills/iron-science/media-discovery-provenance/` |
-| visual-media-evidence | Locally authored | N/A | Apache-2.0 | Locally authored | `skills/iron-science/visual-media-evidence/` |
-| edit-decision-planning | Locally authored | N/A | Apache-2.0 | Locally authored | `skills/iron-science/edit-decision-planning/` |
-| video-qa-gate | Locally authored | N/A | Apache-2.0 | Locally authored | `skills/iron-science/video-qa-gate/` |
-| performance-learning-evaluation | Locally authored | N/A | Apache-2.0 | Locally authored | `skills/iron-science/performance-learning-evaluation/` |
+| trend-opportunity-analysis | Locally authored | N/A | Apache-2.0 | Locally authored | `skills/media-intelligence/trend-opportunity-analysis/` |
+| media-discovery-provenance | Locally authored | N/A | Apache-2.0 | Locally authored | `skills/media-intelligence/media-discovery-provenance/` |
+| visual-media-evidence | Locally authored | N/A | Apache-2.0 | Locally authored | `skills/media-intelligence/visual-media-evidence/` |
+| edit-decision-planning | Locally authored | N/A | Apache-2.0 | Locally authored | `skills/media-intelligence/edit-decision-planning/` |
+| video-qa-gate | Locally authored | N/A | Apache-2.0 | Locally authored | `skills/media-intelligence/video-qa-gate/` |
+| performance-learning-evaluation | Locally authored | N/A | Apache-2.0 | Locally authored | `skills/media-intelligence/performance-learning-evaluation/` |
 
 All third-party-derived components require the notices stated in [THIRD_PARTY_NOTICES.md](../THIRD_PARTY_NOTICES.md). The reviewed `security-review` package retains its component-specific OWASP license file.
