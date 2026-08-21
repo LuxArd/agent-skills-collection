@@ -1,0 +1,6 @@
+interface:
+  display_name: "Video QA Gate"
+  short_description: "Issue independent video QA verdicts"
+  default_prompt: "Use $video-qa-gate to evaluate this immutable render and its supplied QA evidence."
+policy:
+  allow_implicit_invocation: false
