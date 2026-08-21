@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performance Learning Evaluation"
+  short_description: "Evaluate supplied performance learning"
+  default_prompt: "Use $performance-learning-evaluation to assess these supplied performance facts, experiments, and learning states."
+policy:
+  allow_implicit_invocation: false
