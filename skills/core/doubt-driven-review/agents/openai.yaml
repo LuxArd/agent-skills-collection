@@ -1,0 +1,6 @@
+interface:
+  display_name: "Doubt-Driven Review"
+  short_description: "Challenge high-stakes decisions adversarially"
+  default_prompt: "Use $doubt-driven-review to challenge this consequential decision before committing."
+policy:
+  allow_implicit_invocation: false
