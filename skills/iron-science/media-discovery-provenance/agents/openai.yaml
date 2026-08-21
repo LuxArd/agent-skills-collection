@@ -1,0 +1,6 @@
+interface:
+  display_name: "Media Discovery and Provenance"
+  short_description: "Assess media-source evidence records"
+  default_prompt: "Use $media-discovery-provenance to assess these supplied asset and source records."
+policy:
+  allow_implicit_invocation: false
