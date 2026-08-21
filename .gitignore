@@ -1,0 +1,19 @@
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+
+# Python cache and local reports
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
