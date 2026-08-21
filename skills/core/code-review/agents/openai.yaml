@@ -1,0 +1,6 @@
+interface:
+  display_name: "Code Review"
+  short_description: "Review changes with bounded quality evidence"
+  default_prompt: "Use $code-review to review this change and its verification evidence."
+policy:
+  allow_implicit_invocation: false
