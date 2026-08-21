@@ -1,0 +1,6 @@
+interface:
+  display_name: "Visual Media Evidence"
+  short_description: "Structure timestamped visual evidence"
+  default_prompt: "Use $visual-media-evidence to structure the supplied evidence for these identified media assets."
+policy:
+  allow_implicit_invocation: false
