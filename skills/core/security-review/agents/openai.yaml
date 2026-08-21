@@ -1,0 +1,6 @@
+interface:
+  display_name: "Security Review"
+  short_description: "Run focused application security reviews"
+  default_prompt: "Use $security-review to assess this authorized code or configuration scope."
+policy:
+  allow_implicit_invocation: false
