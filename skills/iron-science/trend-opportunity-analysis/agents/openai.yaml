@@ -1,0 +1,6 @@
+interface:
+  display_name: "Trend Opportunity Analysis"
+  short_description: "Interpret supplied trend evidence"
+  default_prompt: "Use $trend-opportunity-analysis to assess these supplied trend signals and their evidence limits."
+policy:
+  allow_implicit_invocation: false
