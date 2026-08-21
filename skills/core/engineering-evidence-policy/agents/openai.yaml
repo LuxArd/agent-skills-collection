@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Evidence Policy"
+  short_description: "Apply evidence and scope discipline"
+  default_prompt: "Use $engineering-evidence-policy to classify evidence and completion claims."
