@@ -1,0 +1,6 @@
+interface:
+  display_name: "Edit Decision Planning"
+  short_description: "Create declarative edit decision plans"
+  default_prompt: "Use $edit-decision-planning to turn these approved story and asset records into an Edit Decision Plan."
+policy:
+  allow_implicit_invocation: false
