@@ -1,0 +1,4 @@
+interface:
+  display_name: "Source Grounding"
+  short_description: "Ground current technical choices in evidence"
+  default_prompt: "Use $source-grounding to verify this version-sensitive technical decision."
