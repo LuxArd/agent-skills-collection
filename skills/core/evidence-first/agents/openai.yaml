@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evidence First"
+  short_description: "Separate facts, inference, and unknowns"
+  default_prompt: "Use $evidence-first to assess this claim with clear evidence labels."
