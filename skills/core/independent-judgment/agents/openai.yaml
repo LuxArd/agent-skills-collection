@@ -1,0 +1,4 @@
+interface:
+  display_name: "Independent Judgment"
+  short_description: "Give a respectful evidence-based opinion"
+  default_prompt: "Use $independent-judgment to evaluate this proposal without automatic agreement."
