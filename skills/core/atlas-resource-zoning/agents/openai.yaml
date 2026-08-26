@@ -1,0 +1,4 @@
+interface:
+  display_name: "Atlas Resource Zoning"
+  short_description: "Right-size model, reasoning, and agentic compute"
+  default_prompt: "Use $atlas-resource-zoning to recommend a proportionate model and reasoning level for this task."
