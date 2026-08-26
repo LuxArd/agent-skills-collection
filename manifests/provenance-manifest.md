@@ -6,6 +6,9 @@
 | specification-and-planning | Addy Osmani `planning-and-task-breakdown` + `spec-driven-development` | `df1edb2e05487d0aa6d93c747141e0aed1187f25` | MIT | Merged | `skills/core/specification-and-planning/` |
 | source-grounding | Addy Osmani `source-driven-development` | `df1edb2e05487d0aa6d93c747141e0aed1187f25` | MIT | Adapted | `skills/core/source-grounding/` |
 | engineering-evidence-policy | Locally authored in reviewed process | N/A | Apache-2.0 | Locally authored | `skills/core/engineering-evidence-policy/` |
+| evidence-first | Locally authored in reviewed process | N/A | MIT | Locally authored | `skills/core/evidence-first/` |
+| independent-judgment | Locally authored in reviewed process | N/A | MIT | Locally authored | `skills/core/independent-judgment/` |
+| atlas-resource-zoning | Locally authored in reviewed process | N/A | MIT | Locally authored | `skills/core/atlas-resource-zoning/` |
 | code-review | Addy Osmani `code-review-and-quality` | `df1edb2e05487d0aa6d93c747141e0aed1187f25` | MIT | Adapted | `skills/core/code-review/` |
 | security-review | Sentry `getsentry/skills`; retained OWASP reference material | `6abccd60c704f669423d6a06ff0809fa39513ce8` | Apache-2.0 + CC BY-SA 4.0 | Adapted | `skills/core/security-review/` |
 | doubt-driven-review | Addy Osmani `doubt-driven-development` | `df1edb2e05487d0aa6d93c747141e0aed1187f25` | MIT | Adapted | `skills/core/doubt-driven-review/` |
