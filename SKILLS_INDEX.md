@@ -55,3 +55,16 @@
 ## performance-learning-evaluation
 
 **Category:** On-demand Media Intelligence · **Use for:** evaluating supplied metrics, experiments, and learning state · **Not for:** ingesting data or launching experiments · **Folder:** `skills/media-intelligence/performance-learning-evaluation/`
+
+
+## evidence-first
+
+**Category:** Permanent core · **Use for:** evidence-dependent claims, research, and recommendations · **Not for:** inventing or upgrading unverified context into fact · **Folder:** skills/core/evidence-first/
+
+## independent-judgment
+
+**Category:** Permanent core · **Use for:** consequential recommendations needing a candid evaluation · **Not for:** automatic agreement, empty reassurance, or artificial contradiction · **Folder:** skills/core/independent-judgment/
+
+## atlas-resource-zoning
+
+**Category:** On-demand core · **Use for:** model, reasoning, quality, or agentic execution selection · **Not for:** trivial self-contained requests that need no selection gate · **Folder:** skills/core/atlas-resource-zoning/

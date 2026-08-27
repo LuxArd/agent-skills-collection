@@ -1,8 +1,8 @@
 # Victor Buret — Agent Skills Collection
 
-A curated, reviewed collection of 14 reusable Agent Skills for disciplined engineering work, evidence-based review, and bounded media-intelligence workflows.
+A curated, reviewed collection of 17 reusable Agent Skills for disciplined engineering work, evidence-based review, and bounded media-intelligence workflows.
 
-These skills are designed to be installed selectively. **Fourteen available skills do not mean fourteen skills active at once.** Permanent core skills establish baseline reasoning discipline; on-demand skills are used only when their specialised capability is relevant.
+These skills are designed to be installed selectively. **Seventeen available skills do not mean seventeen skills active at once.** Permanent core skills establish baseline reasoning discipline; on-demand skills are used only when their specialised capability is relevant.
 
 ## Skill catalogue
 
@@ -12,6 +12,9 @@ These skills are designed to be installed selectively. **Fourteen available skil
 | [specification-and-planning](skills/core/specification-and-planning/) | Permanent core | For significant or unclear change | Create an evidence-aware specification and plan | MIT; merged from Addy Osmani sources |
 | [source-grounding](skills/core/source-grounding/) | Permanent core | For version-sensitive external facts | Ground decisions in authoritative sources | MIT; adapted from Addy Osmani |
 | [engineering-evidence-policy](skills/core/engineering-evidence-policy/) | Permanent core | For substantive engineering work | Apply truth, scope, authority, and verification discipline | Apache-2.0; locally authored |
+| [evidence-first](skills/core/evidence-first/) | Permanent core | For evidence-dependent claims or decisions | Separate facts, reported context, inference, and unknowns | MIT; locally authored |
+| [independent-judgment](skills/core/independent-judgment/) | Permanent core | For a recommendation needing candid evaluation | Give respectful, evidence-based independent judgment | MIT; locally authored |
+| [atlas-resource-zoning](skills/core/atlas-resource-zoning/) | On-demand core | Before model, reasoning, or compute selection | Choose the minimum sufficient capability for reliable work | MIT; locally authored |
 | [code-review](skills/core/code-review/) | On-demand core | Before accepting a code change | Review correctness, maintainability, and evidence | MIT; adapted from Addy Osmani |
 | [security-review](skills/core/security-review/) | On-demand core | For a scoped security review | Perform a focused read-only security assessment | Apache-2.0 / CC BY-SA 4.0 components |
 | [doubt-driven-review](skills/core/doubt-driven-review/) | On-demand core | For consequential uncertainty | Run a bounded adversarial challenge | MIT; adapted from Addy Osmani |
@@ -25,14 +28,17 @@ These skills are designed to be installed selectively. **Fourteen available skil
 
 ## Choose the smallest useful skill
 
-- Architecture decision → `adr`
-- Specification or implementation plan → `specification-and-planning`
-- Current vendor, framework, or standards fact → `source-grounding`
-- Engineering evidence and authority boundary → `engineering-evidence-policy`
-- Code change review → `code-review`
-- Security review → `security-review`
-- Fresh adversarial challenge → `doubt-driven-review`
-- Third-party skill intake → `skill-intake-review`
+- Architecture decision → adr
+- Specification or implementation plan → specification-and-planning
+- Current vendor, framework, or standards fact → source-grounding
+- Engineering evidence and authority boundary → engineering-evidence-policy
+- Evidence-dependent factual claim or recommendation → evidence-first
+- Candid challenge to a consequential proposal → independent-judgment
+- Model, reasoning, quality, or agentic execution choice → atlas-resource-zoning
+- Code change review → code-review
+- Security review → security-review
+- Fresh adversarial challenge → doubt-driven-review
+- Third-party skill intake → skill-intake-review
 - Trend, media, edit, video QA, or learning evaluation → choose the matching Media Intelligence skill
 
 ## Install and reuse
@@ -41,7 +47,7 @@ See [INSTALLATION.md](INSTALLATION.md) for selective installation and [SKILLS_IN
 
 ## Licensing and provenance
 
-This is a component-aware collection. The root [LICENSE](LICENSE) applies to Victor-authored repository content; it does **not** override component licenses. Read [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) and the complete [provenance manifest](manifests/provenance-manifest.md) before redistributing or modifying a third-party-derived component.
+This is a component-aware collection. The root [LICENSE](LICENSE) applies to Victor-authored repository content; it **does not** override component licenses. Read [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) and the complete [provenance manifest](manifests/provenance-manifest.md) before redistributing or modifying a third-party-derived component.
 
 ## Scope
 
